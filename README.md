@@ -11,6 +11,7 @@ Elektroniskā klade Datormācību (pamatkurss)
 *b
 *c
 ##### Saraksts 3
+Skaista bilde!
 ![800,000+ Best Nature Pictures & Images in HD - Pixabay](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg)
 ##### Saraksts 4
 ﻿This site was built using [GitHub Pages](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
