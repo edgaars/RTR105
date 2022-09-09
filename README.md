@@ -3,13 +3,13 @@ Elektroniskā klade Datormācību (pamatkurss)
 ## Class01
 ### Formatēšanas piemēri
 ##### Saraksts 1
-*OOO1
-*OOO2
-*OOO3
+-OOO1
+-OOO2
+-OOO3
 ##### Saraksts 2
-*a
-*b
-*c
+-a
+-b
+-c
 ##### Saraksts 3
 Skaista bilde!
 
