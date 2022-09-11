@@ -20,4 +20,4 @@ Skaista bilde!
  
 ## Class02
 ### Pirmās Linux komandas
-- "mhoami" - komanda pasaka kurš lietotājs pieslēdzies
+- "whoami" - komanda pasaka kurš lietotājs pieslēdzies
