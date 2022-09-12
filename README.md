@@ -21,3 +21,4 @@ Skaista bilde!
 ## Class02
 ### Pirmās Linux komandas
 - "whoami" - komanda pasaka kurš lietotājs pieslēdzies
+who
