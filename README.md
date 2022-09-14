@@ -22,3 +22,4 @@ Skaista bilde!
 ### Pirmās Linux komandas
 whoami - komanda pasaka kurš lietotājs pieslēdzies (parāda username)
 who - parāda cik daudzi un kādi lietotāji pieslēgušies
+.jk.
