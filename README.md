@@ -20,6 +20,5 @@ Skaista bilde!
  
 ## Class02
 ### Pirmās Linux komandas
-whoami - komanda pasaka kurš lietotājs pieslēdzies (parāda username)
-who - parāda cik daudzi un kādi lietotāji pieslēgušies
-.jk.
+)whoami - komanda pasaka kurš lietotājs pieslēdzies (parāda username)
+)who - parāda cik daudz un kādi lietotāji pieslēgušies
