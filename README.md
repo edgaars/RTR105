@@ -20,10 +20,10 @@ Skaista bilde!
  
 ## Class02
 ### Pirmās Linux komandas
-whoami - komanda pasaka kurš lietotājs pieslēdzies (parāda username)
-who - parāda cik daudz un kādi lietotāji pieslēgušies
-exit - iziet
-last - parāda lietotājus kas un cikos bija pieslēgušies ierīcei
+-whoami - komanda pasaka kurš lietotājs pieslēdzies (parāda username)
+-who - parāda cik daudz un kādi lietotāji pieslēgušies
+- exit - iziet
+- last - parāda lietotājus kas un cikos bija pieslēgušies ierīcei
 pwd - print working directory
 history - parāda izmantototo komandu vēsturi
 ls - sadala failus sistēmā un parāda detalizētu informāciju par tiem
