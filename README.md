@@ -31,4 +31,8 @@ Skaista bilde!
 - ls -a -
 - cd - change directory
 - root - 
-- mkdir ABC - veidojām jaunu failu
+- mkdir - makes a directory
+- mkdir ABC - veidojām jaunu failu ABC
+- echo - palīdz pārvietot datus (tekstu)
+- mv - komanda pārvieto vai pārsauc failu
+- 
