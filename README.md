@@ -22,6 +22,7 @@ Skaista bilde!
 ### Pirmās Linux komandas
 - whoami - komanda pasaka kurš lietotājs pieslēdzies (parāda username)
 - who - parāda cik daudz un kādi lietotāji pieslēgušies
+- pwd - displays the present working directory
 - exit - iziet
 - last - parāda lietotājus kas un cikos bija pieslēgušies ierīcei
 - pwd - print working directory
