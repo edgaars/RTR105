@@ -37,7 +37,3 @@ Skaista bilde!
 - mv - komanda pārvieto vai pārsauc failu
 - 
 ## Class03
--
--
--
--
