@@ -3,13 +3,13 @@ Elektroniskā klade Datormācību (pamatkurss)
 ## Class01
 ### Formatēšanas piemēri
 ##### Saraksts 1
--OO1
--OO2
--OOO
+- OO1
+- OO2
+- OO3
 ##### Saraksts 2
--a
--b
--c
+- a
+- b
+- c
 ##### Saraksts 3
 Skaista bilde!
 
@@ -20,14 +20,15 @@ Skaista bilde!
  
 ## Class02
 ### Pirmās Linux komandas
--whoami - komanda pasaka kurš lietotājs pieslēdzies (parāda username)
--who - parāda cik daudz un kādi lietotāji pieslēgušies
+- whoami - komanda pasaka kurš lietotājs pieslēdzies (parāda username)
+- who - parāda cik daudz un kādi lietotāji pieslēgušies
 - exit - iziet
 - last - parāda lietotājus kas un cikos bija pieslēgušies ierīcei
-pwd - print working directory
-history - parāda izmantototo komandu vēsturi
-ls - sadala failus sistēmā un parāda detalizētu informāciju par tiem
-ls -l -parāda failu saturu tabulā
-cd - change directory
-root - 
-mkdir ABC - veidojām jaunu failu
+- pwd - print working directory
+- history - parāda izmantototo komandu vēsturi
+- ls - sadala failus sistēmā un parāda detalizētu informāciju par tiem
+- ls -l -parāda failu saturu tabulā
+- ls -a -
+- cd - change directory
+- root - 
+- mkdir ABC - veidojām jaunu failu
