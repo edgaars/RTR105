@@ -36,3 +36,5 @@ Skaista bilde!
 - echo - palīdz pārvietot datus (tekstu)
 - mv - komanda pārvieto vai pārsauc failu
 - 
+
+## Class03
