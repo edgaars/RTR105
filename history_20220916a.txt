@@ -1,0 +1,31 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls
+    5  ls -l
+    6  cd .
+    7  pwd
+    8  who
+    9  whoami
+   10  echo $0
+   11  uname
+   12  man uname
+   13  uname -a
+   14  git clone https://github.com/edgaars/RTR105
+   15  ls -l
+   16  ls -lt
+   17  git clone https://github.com/edgaars/RTR105 RTR105
+   18  git clone https://github.com/edgaars/RTR105 RTR105.
+   19  ls -lt
+   20  rmdir RTR105
+   21  man rmdir
+   22  rmdir --ignore-fail-on-non-empty
+   23  rm -rf RTR105
+   24  rm -rf RTR105.
+   25  ls -lt
+   26  git clone https://github.com/edgaars/RTR105
+   27  ls -lt
+   28  history
+   29  history > history_20220916a.txt
+---------------------------
+?????????
