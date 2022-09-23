@@ -38,4 +38,9 @@ Skaista bilde!
 - mv - komanda pārvieto vai pārsauc failu
 - 
 ## Class03
-### Kas
+### k
+- bit
+- 1 byte -8 bits
+- 1 kb - 1024 bits
+- 1 mb - 1024 kb
+- 1 gb - 1024 mb
