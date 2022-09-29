@@ -44,4 +44,4 @@ Skaista bilde!
 - 1 mb - 1024 kb
 - 1 gb - 1024 mb
 
-##Class0
+##Class04
