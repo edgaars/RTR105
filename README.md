@@ -49,5 +49,7 @@ Skaitļi
 - 1.PC
 - 2.Cilvēks
 - 2.1 Naturālie skaitļi 1,2,3,...n N
-
+- 2.2 Veselie skaitļi -3,-2,-1,0,1,2,3 ...
+- 2.3 Racionālie
+- 2.4 Reālie 
 
