@@ -44,5 +44,10 @@ Skaista bilde!
 - 1 mb - 1024 kb
 - 1 gb - 1024 mb
 
-## Class04
+## Class08
+Skaitļi
+- 1.PC
+- 2.Cilvēks
+- 2.1 Naturālie skaitļi 1,2,3,...n N
+
 
