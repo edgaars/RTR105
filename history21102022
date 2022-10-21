@@ -1,0 +1,82 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/edgaars/RTR105
+    4  cd /RTR105
+    5  cd ./RTR105
+    6  mkdir Class_10
+    7  cd ./Class_10
+    8  pwd
+    9  nano operations_tests.c
+   10  gcc operations_tests.c 
+   11  ./a.out
+   12  nano operations_tests.c 
+   13  nono operations_tests.c 
+   14  nano operations_tests.c 
+   15  nono operations_tests.c 
+   16  nano operations_tests.c 
+   17  gcc operations_tests.c 
+   18  ./a.out 
+   19  nano operations_tests.c 
+   20  gcc operations_tests.c 
+   21  nano operations_tests.c 
+   22  gcc operations_tests.c 
+   23  nano operations_tests.c 
+   24  gcc operations_tests.c 
+   25  ./a.out 
+   26  nano operations_tests.c 
+   27  gcc operations_tests.c 
+   28  ./a.out 
+   29  nano operations_tests.c 
+   30  gcc operations_tests.c 
+   31  ./a.out 
+   32  nano operations_tests.c 
+   33  gcc operations_tests.c 
+   34  nano operations_tests.c 
+   35  gcc operations_tests.c 
+   36  nano operations_tests.c 
+   37  gcc operations_tests.c 
+   38  nano operations_tests.c 
+   39  gcc operations_tests.c 
+   40  nano operations_tests.c 
+   41  gcc operations_tests.c 
+   42  nano operations_tests.c 
+   43  gcc operations_tests.c 
+   44  nano operations_tests.c 
+   45  gcc operations_tests.c 
+   46  nano operations_tests.c 
+   47  gcc operations_tests.c 
+   48  ./a.out 
+   49  nano operations_tests.c 
+   50  gcc operations_tests.c 
+   51  ./a.out 
+   52  nano operations_tests.c 
+   53  gcc operations_tests.c 
+   54  ./a.out 
+   55  nano operations_tests.c 
+   56  ./a.out 
+   57  nano operations_tests.c 
+   58  gcc operations_tests.c 
+   59  ./a.out 
+   60  nano operations_tests.c 
+   61  nano op
+   62  nano operations_tests.c 
+   63  gcc operations_tests.c 
+   64  ./a.out 
+   65  cd RTR105
+   66  cd/ RTR105
+   67  cd ..
+   68  mkdir Class_11
+   69  cd Class_11
+   70  pwd
+   71  nano if_tests.c
+   72  gcc if_tests.c 
+   73  nano if_tests.c 
+   74  gcc if_tests.c 
+   75  nano if_tests.c 
+   76  gcc if_tests.c 
+   77  ./a.out 
+   78  nano if_tests.c 
+   79  ./a.out 
+   80  ..cd
+   81  cd ..
+   82  history > history21102022
